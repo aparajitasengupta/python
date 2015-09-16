@@ -1,2 +1,2 @@
 # python
-This is my first repository
+This is the Class Project . CS 521
